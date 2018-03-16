@@ -1,0 +1,10 @@
+name: WorldTp
+main: kake26s.mcbe.worldtp.WorldTp
+version: 0.0.1
+author: kake26s
+api: ["1.0.0"]
+commands:
+  worldtp:
+    description: "指定したワールドにテレポートします"
+    usage: "/worldtp [worldname]"
+    permission: op
